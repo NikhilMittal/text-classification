@@ -5,7 +5,7 @@
 
 This repository contains standard implementation of three popular Machine Learning Algorithms.
 1. Logistic Regression
-2. Gaussina NB
+2. Gaussian NB
 3. Linear SVC
 
 The main idea of this project is to experiment whether a <i>collborative decision making approach</i> (**Voting Algorithm**) based on the votes provided by the three standard algorithms can outperform the standard algorithms or not.
