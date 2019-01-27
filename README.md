@@ -12,4 +12,6 @@ The main idea of this project is to experiment whether a <i>collborative decisio
 
 **Result**: Feel free to clone the repository and check it yourself. :P
 
-Data source: Kaggle
+**Update**: I did this project as one of the academic projects during my bachelors and now I do realize that the idea is very similar to one of the very simple ensemble learning technique.
+
+<i>Data source: Kaggle</i>
